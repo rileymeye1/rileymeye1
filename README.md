@@ -1,5 +1,5 @@
 <h1 align="center"> Riley Meyer </h1>
-<h3 align="center"> Salesforce Developer | Apex | Lightning Web Components | Flows | Army Veteran </h3>
+<h3 align="center"> Salesforce Developer | Apex | SOQL | Flows | Army Veteran </h3>
 
 <div align="center">
 <table>
