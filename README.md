@@ -38,9 +38,10 @@
 # ☁ Salesforce Credentials
 
 <div align="center">
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" height="100" alt="Platform Developer I"/>
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" height="100" alt="Platform App Builder"/>
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" height="100" alt="Administrator"/>
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA9LY&oid=00DF0000000gZsu&lastMod=1746780949000" height="100" alt="Platform Developer"/>
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA8Sh&oid=00DF0000000gZsu&lastMod=1746780709000" height="100" alt="Platform Administrator II"/>
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEmf&oid=00DF0000000gZsu&lastMod=1746780791000" height="100" alt="Platform App Builder"/>
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000" height="100" alt="Platform Administrator"/>
 </div>
 
 # 📊 GitHub Stats
