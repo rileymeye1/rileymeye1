@@ -47,9 +47,7 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=rileymeye1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rileymeye1&size_weight=0.5&count_weight=0.5"  />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileymeye1&size_weight=0.5&count_weight=0.5)
+  [![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileymeye1)](https://github.com/rileymeye1/github-readme-stats)
 </div>
 
 <!---
