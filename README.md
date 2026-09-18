@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://github.com/rileymeye1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=rileymeye1&show_icons=true&theme=default" alt="Riley's GitHub stats" />
+    <img src=" https://github-stats-extended.vercel.app/api?username=rileymeye1&show_icons=true&theme=default" alt="Riley's GitHub Stats" />
   </a>
 </div>
 
