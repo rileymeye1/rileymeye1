@@ -48,6 +48,7 @@
 # 📊 GitHub Stats
 
 <div align="center">
+  [![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileymeye1)](https://github.com/rileymeye1/github-readme-stats)
 </div>
 
 <!---
