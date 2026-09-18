@@ -45,12 +45,6 @@
   <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000" height="100" alt="Platform Administrator"/>
 </div>
 
-# 📊 GitHub Stats
-
-<div align="center">
-  [![Riley's GitHub stats](https://github-stats-extended.vercel.app/api?username=rileymeye1&show_icons=true&theme=default)](https://github.com/stats-organization/github-stats-extended)
-</div>
-
 <!---
 rileymeye1/rileymeye1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
