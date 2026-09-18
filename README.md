@@ -48,9 +48,7 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/rileymeye1" target="_blank">
-    <img src=" https://github-stats-extended.vercel.app/api?username=rileymeye1&show_icons=true&theme=default" alt="Riley's GitHub Stats" />
-  </a>
+  [![Riley's GitHub stats](https://github-stats-extended.vercel.app/api?username=rileymeye1&show_icons=true&theme=default)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 <!---
