@@ -48,7 +48,9 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  [![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileymeye1)](https://github.com/rileymeye1/github-readme-stats)
+  <a href="https://github.com/rileymeye1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=rileymeye1&show_icons=true&theme=default" alt="Riley's GitHub stats" />
+  </a>
 </div>
 
 <!---
